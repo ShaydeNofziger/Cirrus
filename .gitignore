@@ -7,3 +7,7 @@ vcs.xml
 encodings.xml
 indexLayout.xml
 .idea/
+.vs/
+TestResults/
+coverage.cobertura.xml
+.DS_Store
